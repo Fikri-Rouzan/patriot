@@ -1,0 +1,79 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question": "Siapakah pahlawan Indonesia yang mendapat julukan Ayam Jantan dari Timur?",
+      "correct_answer": "Sultan Hassanuddin",
+      "incorrect_answers": [
+        "Zainal Mustofa",
+        "Sisingamangaraja XII",
+        "I Gusti Ngurah Rai"
+      ]
+    },
+    {
+      "question": "Pahlawan yang berpartisipasi dalam pertempuran Puputan Margarana untuk melawan pasukan Belanda 20 November 1946 adalah...",
+      "correct_answer": "I Gusti Ngurah Rai",
+      "incorrect_answers": [
+        "I Gusti Ketut Jelantik",
+        "I Gusti Ketut Pudja",
+        "I Gusti Ngurah Made Agung"
+      ]
+    },
+    {
+      "question": "Berikut pahlawan Indonesia yang memperjuangkan kemerdekaan Indonesia, kecuali...",
+      "correct_answer": "Sultan Bayezid II",
+      "incorrect_answers": [
+        "Tan Malaka",
+        "I Gusti Ketut Jelantik",
+        "Djamin Ginting"
+      ]
+    },
+    {
+      "question": "Siapakah pahlawan Indonesia yang gugur ketika berkonfrontasi dengan Belanda di laut Papua?",
+      "correct_answer": "Laksamana Yos Sudarso",
+      "incorrect_answers": [
+        "Jenderal Abdul Haris Nasution",
+        "Teuku Abdul Hamid Azwar",
+        "Hermann Goring"
+      ]
+    },
+    {
+      "question": "Kapan Indonesia menyatakan kemerdekaannya?",
+      "correct_answer": "17 Agustus 1945",
+      "incorrect_answers": [
+        "18 Agustus 1945",
+        "25 Desember 1949",
+        "20 Mei 1947"
+      ]
+    },
+    {
+      "question": "Benarkah Jenderal Soedirman merupakan salah satu pahlawan Indonesia di era penjajahan Jepang?",
+      "correct_answer": "Tidak",
+      "incorrect_answers": ["Benar", "Tidak tahu", "Bisa jadi"]
+    },
+    {
+      "question": "Hari Pahlawan diperingati setiap tanggal?",
+      "correct_answer": "10 November",
+      "incorrect_answers": ["10 Januari", "2 Mei", "28 Oktober"]
+    },
+    {
+      "question": "Siapakah yang menjadi pemimpin pemberontakan milisi PETA di Blitar?",
+      "correct_answer": "Soeprijadi",
+      "incorrect_answers": [
+        "Laksamana Maeda",
+        "Heinz Guderian",
+        "Zainal Mustofa"
+      ]
+    },
+    {
+      "question": "Semangat apa yang patut kita teladani dari para pahlawan?",
+      "correct_answer": "Daya Juang",
+      "incorrect_answers": ["Malas", "Foya-foya", "Berkhianat"]
+    },
+    {
+      "question": "Siapa pahlawan Indonesia yang memimpin perlawanan dalam Pertempuran Surabaya?",
+      "correct_answer": "Bung Tomo",
+      "incorrect_answers": ["Bung Hatta", "Tan Malaka", "Bung Karno"]
+    }
+  ]
+}
