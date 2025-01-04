@@ -1,0 +1,29 @@
+h1 {
+  font-size: 2.2rem;
+}
+
+.btn-group > button:last-of-type {
+  margin-left: 0.5rem;
+}
+
+.btn-group,
+.fullpage-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fullpage-center {
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.answers {
+  text-align: left;
+  margin-bottom: 1rem;
+  line-height: 2rem;
+  font-size: 20px;
+}

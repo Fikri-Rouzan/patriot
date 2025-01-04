@@ -6,16 +6,17 @@ import App from "./App.jsx";
 import AOS from "aos";
 import ScrollToTop from "./components/ScrollToTop.jsx";
 
-import "bootstrap/dist/css/bootstrap.min.css";
-import "./dist/css/main.css";
-import "./dist/css/navbar.css";
-import "./dist/css/footer.css";
-import "./dist/css/homeHeader.css";
-import "./dist/css/homeClass.css";
-import "./dist/css/homeAboutUs.css";
-import "./dist/css/page.css";
-import "./dist/css/faq.css";
+import "./css/main.css";
+import "./css/navbar.css";
+import "./css/footer.css";
+import "./css/homeHeader.css";
+import "./css/homeClass.css";
+import "./css/homeAboutUs.css";
+import "./css/page.css";
+import "./css/faq.css";
+import "./css/quiz.css";
 
+import "bootstrap/dist/css/bootstrap.min.css";
 import "animate.css";
 import "aos/dist/aos.css";
 
