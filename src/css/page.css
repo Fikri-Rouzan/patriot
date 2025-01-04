@@ -1,0 +1,44 @@
+.class-page .class {
+  background-color: var(--primary-color);
+  padding-bottom: 100px;
+}
+
+.class-page .class .row:nth-child(1) {
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+
+.class-page .class .row:nth-child(1) h1 {
+  color: var(--color-text);
+  --animate-delay: 0.5s;
+}
+
+.class-page .class .row:nth-child(1) p {
+  color: var(--color-text);
+}
+
+.class-page .class .row:nth-child(2) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 15px;
+  padding-inline: 10px;
+}
+
+.class-page .class .row:nth-child(2) .col {
+  background-color: #ffffff;
+  padding: 0;
+}
+
+.class-page .class .row:nth-child(2) img {
+  height: 250px;
+}
+
+.class-page .class .row:nth-child(2) .star i {
+  color: gold;
+}
+
+.class-page .class .row:nth-child(2) h5 {
+  color: var(--color-text);
+  font-weight: bold;
+  line-height: 1.5;
+}

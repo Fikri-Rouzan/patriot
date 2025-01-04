@@ -10,8 +10,6 @@ import { Store, useQuizContext } from "../components/QuizContext";
 
 import data from "../data/data.json";
 
-import "../dist/css/quiz.css";
-
 const correctAnswers = [2, 3, 2, 2, 0, 2, 1, 2, 1, 2];
 const totalQuestions = data.results.length;
 
