@@ -18,5 +18,5 @@ Patriot is a website that provides information about the history of Indonesian h
 - Stylesheet Language: CSS.
 - Libraries: React, React Router, React Bootstrap, Swiper, Animate.css, and Animate On Scroll.
 - Tool: Vite.
-- Software: Visual Studio Code, CodeSandbox, and GitHub.
+- Software: Visual Studio Code.
 - Deployment: Netlify.
