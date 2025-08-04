@@ -1,22 +1,22 @@
-import HeroImage1 from "../assets/img/heroes/Hero-1.jpg";
-import HeroImage2 from "../assets/img/heroes/Hero-2.jpg";
-import HeroImage3 from "../assets/img/heroes/Hero-3.jpg";
-import HeroImage4 from "../assets/img/heroes/Hero-4.jpg";
-import HeroImage5 from "../assets/img/heroes/Hero-5.jpg";
-import HeroImage6 from "../assets/img/heroes/Hero-6.jpg";
-import HeroImage7 from "../assets/img/heroes/Hero-7.jpg";
-import HeroImage8 from "../assets/img/heroes/Hero-8.jpg";
-import HeroImage9 from "../assets/img/heroes/Hero-9.jpg";
-import HeroImage10 from "../assets/img/heroes/Hero-10.jpg";
-import HeroImage11 from "../assets/img/heroes/Hero-11.jpg";
-import HeroImage12 from "../assets/img/heroes/Hero-12.jpg";
-import HeroImage13 from "../assets/img/heroes/Hero-13.jpg";
-import HeroImage14 from "../assets/img/heroes/Hero-14.jpg";
+import HeroImage1 from "../assets/heroes/hero-1.jpg";
+import HeroImage2 from "../assets/heroes/hero-2.jpg";
+import HeroImage3 from "../assets/heroes/hero-3.jpg";
+import HeroImage4 from "../assets/heroes/hero-4.jpg";
+import HeroImage5 from "../assets/heroes/hero-5.jpg";
+import HeroImage6 from "../assets/heroes/hero-6.jpg";
+import HeroImage7 from "../assets/heroes/hero-7.jpg";
+import HeroImage8 from "../assets/heroes/hero-8.jpg";
+import HeroImage9 from "../assets/heroes/hero-9.jpg";
+import HeroImage10 from "../assets/heroes/hero-10.jpg";
+import HeroImage11 from "../assets/heroes/hero-11.jpg";
+import HeroImage12 from "../assets/heroes/hero-12.jpg";
+import HeroImage13 from "../assets/heroes/hero-13.jpg";
+import HeroImage14 from "../assets/heroes/hero-14.jpg";
 
-import Fikri from "../assets/img/members/Fikri.jpg";
-import Kevin from "../assets/img/members/Kevin.jpg";
-import Handes from "../assets/img/members/Handes.jpg";
-import Marcel from "../assets/img/members/Marcel.jpg";
+import Fikri from "../assets/members/fikri.jpg";
+import Kevin from "../assets/members/kevin.jpg";
+import Handes from "../assets/members/handes.jpg";
+import Marcel from "../assets/members/marcel.jpg";
 
 export const navLinks = [
   {

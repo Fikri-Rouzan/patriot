@@ -17,8 +17,6 @@
   font-size: 18px;
   background: #fff;
   padding: 20px;
-
-  /* Center slide text vertically */
   display: flex;
   flex-direction: column;
   justify-content: center;

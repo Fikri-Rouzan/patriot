@@ -47,20 +47,24 @@ const FooterComponent = () => {
             </div>
             <div className="social mt-3">
               <a
-                href="https://www.instagram.com/jokowi/"
-                className="facebook fa-brands fa-instagram"
+                href="https://www.instagram.com"
+                className="fa-brands fa-instagram"
+                target="_blank"
               ></a>
               <a
-                href="https://www.facebook.com/Jokowi?mibextid=ZbWKwL"
-                className="facebook fa-brands fa-facebook"
+                href="https://www.facebook.com"
+                className="fa-brands fa-facebook"
+                target="_blank"
               ></a>
               <a
-                href="https://twitter.com/jokowi?t=y2yQ_uggTbI44bbvwAqDDA&s=08"
-                className="twitter fa-brands fa-twitter"
+                href="https://x.com"
+                className="fa-brands fa-twitter"
+                target="_blank"
               ></a>
               <a
-                href="https://www.youtube.com/@Jokowi"
-                className=" fa-brands fa-youtube"
+                href="https://www.youtube.com"
+                className="fa-brands fa-youtube"
+                target="_blank"
               ></a>
             </div>
           </Col>

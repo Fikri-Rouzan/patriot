@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper/modules";
 import { dataSwiper, allHeroes } from "../data/index";
 
-import LogoImage from "../assets/img/Logo.png";
+import LogoImage from "../assets/logo.png";
 import FaqComponent from "../components/FaqComponent";
 
 import "swiper/css";
@@ -85,7 +85,7 @@ const HomePage = () => {
                   <p className="px-3 pb-20 text-justify">
                     {heroes.description}
                   </p>
-                  <div className="ket justify-content-between align-items-center px-3 pb-4 text-center">
+                  <div className="justify-content-between align-items-center px-3 pb-4 text-center">
                     <a className="btn btn-danger rounded-5" href={heroes.url}>
                       Lihat Selengkapnya
                     </a>

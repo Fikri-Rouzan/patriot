@@ -3,10 +3,11 @@
   padding: 15px 0 15px 0;
   width: 100%;
   transition: all 0.2s ease;
-  /* -webkit-animation: all 0.2 ease; */
-  -moz-transition: all 0.2 ease;
-  -ms-transition: all 0.2 ease;
-  -o-transition: all 0.2 ease;
+  animation: all 0.2s ease;
+  -webkit-animation: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
   z-index: 9999;
   animation-name: fadeInDown;
   animation-duration: 1s;

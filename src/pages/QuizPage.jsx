@@ -31,11 +31,6 @@ export default function App() {
   );
 }
 
-/**
- * Renders questions, answers and buttons to progress.
- *
- * @param {{results: any, index: number}} props
- */
 export function Question({ result, index }) {
   return (
     <section id={`question-${index}`} className="fullpage-center">
@@ -66,15 +61,9 @@ export function Question({ result, index }) {
   );
 }
 
-/**
- * Combine correct and incorrect answers, sort them in alphabetical order
- * then return radio buttons.
- *
- * @param {{result:{}, parentIndex:number}} props
- */
 export function Answers({ result, parentIndex }) {
   const combinedAnswers = [...result.incorrect_answers, result.correct_answer];
-  combinedAnswers.sort(); // Sort to alphabetical order
+  combinedAnswers.sort();
   return combinedAnswers.map((answer, index) => (
     <Answer
       key={index}
@@ -105,11 +94,6 @@ function Answer({ answer, index, parentIndex }) {
   );
 }
 
-/**
- * Saves me from writing type button over and over.
- *
- * @param {{text: string, func: () => {}}} props
- */
 function Button({ text, func }) {
   return (
     <button
@@ -162,9 +146,6 @@ function Finish() {
     </Fragment>
   );
 
-  /** Questions answered out of sequence will cause array to have `undefineds`
-   * this variable counts the length with those filtered out
-   */
   const answeredQuestions = chosenAnswers.filter(
     (ar) => ar !== undefined
   ).length;

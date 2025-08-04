@@ -39,7 +39,7 @@ const IndependencePage = () => {
                     {heroes.region}
                   </h5>
                   <p className="px-3 pb-3 text-justify">{heroes.description}</p>
-                  <div className="ket justify-content-between align-items-center px-3 pb-4 text-center">
+                  <div className="justify-content-between align-items-center px-3 pb-4 text-center">
                     <a className="btn btn-danger rounded-5" href={heroes.url}>
                       {heroes.button}
                     </a>
